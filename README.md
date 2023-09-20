@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @purnadi-winarno
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on react native project
+- 👀 I’m interested in programming, specially for javascript fullstack developer
+- 🌱 I'm expert in React, React Native, Node, Express, Nextjs, NestJs, Mongodb, Graphql
+- 💞️ I’m looking to collaborate on react & react native project
 - 📫 How to reach me by email me purnadi.winarno@gmail.com
 
 <!---
